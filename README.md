@@ -48,7 +48,7 @@ src="https://github.com/user-attachments/assets/bbb66763-33ae-41a9-a3ca-2ed563dc
 - Numpy
 - searbon
 - scikit-learn
-- plt
+- plt 
 
   ### Conclusion
   This project demonstrates how machine learning can transform traditional recruitment processes into a more efficient, scalable, and data-driven system. By automating applicant screening and classification, organizations can significantly reduce the time and resources required for manual candidate evaluation while improving the consistency and accuracy of hiring decisions, this project also  highlights the growing impact of artificial intelligence in human resource management and showcases the potential of predictive modeling to optimize modern recruitment strategies.
