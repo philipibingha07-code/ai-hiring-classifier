@@ -29,10 +29,42 @@ The Applicant Classification System is designed to support data-driven recruitme
 • Best Suited for Role
 • Will Get Interview
 
+ ### Exploratory Data Analysis
+- Key insights:
+- Applicant experience strongly influences hiring outcomes.
+- Candidates with certifications show higher selection rates.
+- Certain skills are highly associated with interview invitations.
+
+- | Model               | Accuracy | Precision | Recall | F1-score |
+| ------------------- | -------- | --------- | ------ | -------- |
+| Logistic Regression | = 0.72   | 0.71      | 0.71   | 0.71     |
+| Random Forest       | 0.91     | 0.91     | 0.91   | 0.91     |
+| XGBoost             | 0.91     | 0.90      | 0.89   | 0.89     |
+
+
+
+### Visualizations
+- <img width="400" height="300" alt="Screenshot 2026-06-27 075739" -
+- <img width="751" height="381" alt="Screenshot 2026-06-27 075917" 
+src="https://github.com/user-attachments/assets/bbb66763-33ae-41a9-a3ca-2ed563dcbbde" />
+<img width="649" height="100" alt="Screenshot 2026-06-27 080639" src="https://github.com/user-attachments/assets/b703c91c-d751-428e-bc7d-2307fcf26667" />
+
+### Tool
+- python
+- pandas
+- Numpy
+- searbon
+- scikit-learn
+- plt
+
+  ### Conclusion
+  This project demonstrates how machine learning can transform traditional recruitment processes into a more efficient, scalable, and data-driven system. By automating applicant screening and classification, organizations can significantly reduce the time and resources required for manual candidate evaluation while improving the consistency and accuracy of hiring decisions, this project also  highlights the growing impact of artificial intelligence in human resource management and showcases the potential of predictive modeling to optimize modern recruitment strategies.
 
 
 
 
+
+  
 
 
 
