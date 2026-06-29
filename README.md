@@ -1,7 +1,7 @@
 ### Building an Intelligent Recruitment Decision Support System
 
 
-### Problem Statement
+### Problem Statement 
 
 Organizations receive thousands of applications for open positions, making manual screening inefficient, expensive, and prone to bias. Recruiters often spend considerable time reviewing resumes, which can delay hiring decisions and result in qualified candidates being overlooked.
 
